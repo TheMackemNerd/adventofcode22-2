@@ -257,7 +257,7 @@ public class Game
                         case Hand.ROCK: //Opponent plays Rock
                             myHand = Hand.PAPER;
                             break;
-                        case Hand.PAPER: //Opponent plays Rock
+                        case Hand.PAPER: //Opponent plays Paper
                             myHand = Hand.SCISSORS;
                             break;
                         default: //Opponent plays Scissors
